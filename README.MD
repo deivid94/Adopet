@@ -35,7 +35,7 @@ git clone https://github.com/deivid94/Adopet
 
 npm  install yarn --global yarn
 
-cd "#yourDirwithSaveTheproject/DevHouse"
+cd "#yourDirwithSaveTheproject/Adopet"
 
 yarn init -Y
 

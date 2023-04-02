@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src= "/img/page.png" width_="400px">
+  <img src= "img/page.png" width_="400px">
 
   :satellite:<p> APP ADOPET
 </h1>

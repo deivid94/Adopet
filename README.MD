@@ -28,7 +28,7 @@
     
     
 ```bash
-git clone https://github.com/deivid94/DevHouse.git
+git clone https://github.com/deivid94/Adopet
 
 ## Open project with or IDE and install dependencies:
   
